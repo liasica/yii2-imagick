@@ -1,0 +1,18 @@
+{
+    "name": "liasica/yii2-imagick",
+    "description": "基于ImageMagick使用在Yii2上的图片处理工具",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "liasica",
+            "email": "magicrolan@qq.com"
+        }
+    ]
+}
